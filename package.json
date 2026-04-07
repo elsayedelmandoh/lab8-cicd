@@ -1,0 +1,12 @@
+{
+	"name": "lab8-cicd",
+	"version": "1.0.0",
+	"description": "Cloud Queens lab8 CICD",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"pg": "^8.20.0"
+	}
+}
